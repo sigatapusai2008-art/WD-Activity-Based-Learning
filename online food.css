@@ -1,0 +1,19 @@
+
+body {
+    background-color: lightyellow;
+    text-align: center;
+    font-family: Arial;
+}
+h1 {
+    color: darkred;
+}
+.card {
+    background-color: white;
+    padding: 20px;
+    margin: 30px;
+    border-radius: 10px;
+}
+button {
+    background-color: orange;
+    padding: 10px;
+}
